@@ -1,0 +1,29 @@
+
+## HTML Overview
+- **Navbar**: Contains a user icon, navigation image, login button, and a sidebar toggle button.
+- **Sidebar**: Features links with icons for Home, Offers, FAQs, and Help.
+- **Content Area**: Placeholder for main content.
+- **Footer**: Organized into three sections:
+  - **Footer Top**: Displays company logos/icons.
+  - **Footer Middle**: Contains links related to the company, services, support, and learning.
+  - **Footer Bottom**: Displays social media icons.
+
+## CSS Overview
+- The CSS file employs a mobile-first approach, using media queries to ensure responsiveness across devices.
+- **General Styles**: Basic resets for margin and padding, and setting a universal font.
+- **Navbar Styles**: Flexbox layout for horizontal alignment and spacing.
+- **Sidebar Styles**: Positioned absolutely, with styles for hover effects and transitions.
+- **Content Styles**: Flexbox for layout, with wrapping to maintain responsiveness.
+- **Footer Styles**: Flexbox for layout and alignment, with styles that adapt to different screen sizes.
+
+## Usage
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. The application is designed to work across devices, with responsive features enabled by CSS media queries.
+
+## Technologies Used
+- HTML
+- CSS (Flexbox, Media Queries)
+
+## License
+This project is licensed under the MIT License. Feel free to modify and use the code as needed.
